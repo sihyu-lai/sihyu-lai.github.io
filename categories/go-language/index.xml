@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go Language on Yuki&#39;s 樹洞｜英語學習、好書推薦、生活隨筆</title>
+    <link>https://sihyu-lai.github.io/categories/go-language/</link>
+    <description>Recent content in Go Language on Yuki&#39;s 樹洞｜英語學習、好書推薦、生活隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 19 Sep 2021 10:07:47 +0800</lastBuildDate><atom:link href="https://sihyu-lai.github.io/categories/go-language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>測試第一篇</title>
+      <link>https://sihyu-lai.github.io/blog/test/</link>
+      <pubDate>Sun, 19 Sep 2021 10:07:47 +0800</pubDate>
+      
+      <guid>https://sihyu-lai.github.io/blog/test/</guid>
+      <description>Hello World
+一級標題 二級標題 三級標題 四級標題 五級標題 六級標題 測試測試 測試測試測試</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://sihyu-lai.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://sihyu-lai.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
